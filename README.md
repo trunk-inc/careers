@@ -23,6 +23,7 @@
 
 ### 1. Flutter エンジニア
 
+[Workschool](https://www.work-school.com) のフロントエンドの開発を行います。<br>
 フロントエンドのコードは全てFlutterで開発しております。<br>
 業務経験がなくても個人でFlutterの利用経験ある方は大歓迎です！
 

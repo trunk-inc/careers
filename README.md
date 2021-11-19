@@ -2,7 +2,7 @@
 
 `社員` / `フルリモート可能`
 
-TRUNKのビジョンは、「生まれた環境に関係なく、やる気次第で誰でも活躍できる世界をつくる」です。<br>
+[TRUNK](https://trunk.company)のビジョンは、「生まれた環境に関係なく、やる気次第で誰でも活躍できる世界をつくる」です。<br>
 お金が無くても、学歴が無くても、地方で育っても、平等にチャンスがある未来を作りましょう！
 
 ### 働き方
@@ -31,9 +31,9 @@ TRUNKのビジョンは、「生まれた環境に関係なく、やる気次第
 
 * Flutter
 * GitHub
-* GraphQL
-* Riverpod
-* Artemis
+* [GraphQL](https://graphql.org)
+* [Riverpod](https://riverpod.dev)
+* [Artemis](https://pub.dev/packages/artemis)
 
 #### 採用までの流れ
 

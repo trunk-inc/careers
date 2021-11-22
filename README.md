@@ -7,9 +7,8 @@ TRUNKのビジョンは、「生まれた環境に関係なく、やる気次第
 企業ページ: https://trunk.company
 
 
-### 給与体系
+### Workschool
 
-TODO: あとでかく
 
 ### 働き方
 
@@ -53,6 +52,9 @@ TODO: あとでかく
 
 [Flutter エンジニアに応募する](https://forms.gle/3zsd3AyJtCQ1LWZT9)
 
+#### 給与体系
+
+TODO: あとでかく
 
 ### 2. Webデザイナー
 

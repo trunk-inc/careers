@@ -7,7 +7,9 @@ TRUNKのビジョンは、「生まれた環境に関係なく、やる気次第
 企業ページ: https://trunk.company
 
 
-### Workschool
+### プロダクト
+
+TODO: Workschoolについてでかく
 
 
 ### 働き方
@@ -39,6 +41,17 @@ TRUNKのビジョンは、「生まれた環境に関係なく、やる気次第
 * [GraphQL](https://graphql.org)
 * [Riverpod](https://riverpod.dev)
 * [Artemis](https://pub.dev/packages/artemis)
+
+#### 必須条件
+
+* FlutterとGitHubの開発経験がある人（個人でもOK）
+* 単体テストが書ける人
+
+#### 歓迎条件
+
+* 学生のうちからスキルを磨けるバイトする未来を作りたい人
+* Figmaでデザイン描ける人
+* 非同期コミュニケーションに慣れている人
 
 #### 採用までの流れ
 
